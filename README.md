@@ -8,3 +8,6 @@ Bubbles in water rise up to the surface; similarly, the array elements in bubble
 Although it is simple to use, it is primarily used as an educational tool because the performance of bubble sort is poor 
 in the real world. It is not suitable for large data sets. The average and worst-case complexity of Bubble sort is O(n2), 
 where n is a number of items.
+
+In short, Bubble sort is a sorting algorithm that compares two adjacent elements and swaps them until they are not in the 
+intended order.
